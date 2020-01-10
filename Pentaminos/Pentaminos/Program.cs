@@ -11,5 +11,10 @@ namespace Pentaminos
         static void Main(string[] args)
         {
         }
+
+        static public string Description
+        {
+            get { return "Pentaminos"; }
+        }
     }
 }
