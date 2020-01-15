@@ -1,0 +1,6 @@
+projectKey=pen
+serverUrl=http://localhost:9000
+serverVersion=7.9.2.30863
+dashboardUrl=http://localhost:9000/dashboard?id=pen
+ceTaskId=AW-lDAYtVel5xRa04abK
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AW-lDAYtVel5xRa04abK
